@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0575E6&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+Into+Insights;Open+to+Junior+Data+Analyst+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0575E6&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+Into+Insights;Open+to+Data+Analyst+Roles" alt="Typing SVG" />
 </p>
 
 # I'm Mohamed Abdo 👋
@@ -50,4 +50,4 @@ I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI
 - LinkedIn: [mohamed-abdo-15b923157](https://www.linkedin.com/in/mohamed-abdo-15b923157)
 
 ---
-⭐ *Open to Junior Data Analyst / Reporting Analyst / BI Analyst roles — feel free to reach out!*
+⭐ *Open to  Data Analyst / Reporting Analyst / BI Analyst roles — feel free to reach out!*
