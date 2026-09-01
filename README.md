@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0575E6&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+Into+Insights;Open+to+Junior+Data+Analyst+Roles" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Mohamed Abdo 👋
+# I'm Mohamed Abdo 👋
 
 **Data Analyst | Power BI · SQL · Python · Excel**
 
@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 
-I'm an aspiring Data Analyst focused on turning raw data into clear, actionable business insights. I completed the **Digital Egypt Pioneers (Rowad Masr Al-Raqamiya)** Data Analysis Professional track and hold the **Microsoft Power BI Data Analyst Associate (PL-300)** certification. I'm currently building a hands-on project portfolio spanning Excel, SQL, and Python to complement my Power BI dashboard work.
+I'm an aspiring Data Analyst focused on turning raw data into clear, actionable business insights. I completed IBM Data Analyst Professional Certificate ,Google Data Analytics Professional Certificate and Microsoft Power BI Data analyst Professional Certificate. I'm currently building a hands-on project portfolio spanning Excel, SQL, and Python to complement my Power BI dashboard work.
 
 I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI Analyst** opportunities.
 
@@ -40,8 +40,6 @@ I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI
 
 | Project | Description | Tools |
 |---|---|---|
-| Smart Transportation Dashboard | Interactive Power BI dashboard analyzing transportation data | Power BI, DAX |
-| *(add next project here)* | | |
 
 > More projects coming soon as I continue building out this portfolio.
 
