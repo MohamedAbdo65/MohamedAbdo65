@@ -40,8 +40,10 @@ I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI
 
 | Project | Description | Tools |
 |---|---|---|
-|Analysis Coffee Shop Sales | analyze dataset to gain Sales insights |Power Query ,Pivot Table ,Pivot Charts ,MS Excel|
-|Analysis Ads Marketing Campaign | analyze dataset to gain Ads Performance insights |Power Query ,Pivot Table ,Pivot Charts ,MS Excel|
+|Coffee Shop Sales | analyze dataset to gain Sales insights |Power Query ,Pivot Table ,Pivot Charts ,MS Excel|
+|Ads Marketing Campaign | analyze dataset to gain Ads Performance insights |Power Query ,Pivot Table ,Pivot Charts ,MS Excel|
+|Uber Rides | analyze dataset to gain Performance insights |Power Query ,Power BI ,Figma |
+|Task Management | analyze dataset to gain Performance insights |Power Query ,Power BI ,Figma |
 > More projects coming soon as I continue building out this portfolio.
 
 ---
