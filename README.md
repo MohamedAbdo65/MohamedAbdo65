@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=180&section=header&text=Welocme%20In%20My%20Profile,%20I'm%20Mohamed%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=180&section=header&text=Welcomme%20In%20My%20Profile,👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 # I'm Mohamed Abdo 👋
 
-**Data Analyst | Power BI · SQL · Python · Excel**
+**Junior Data Analyst | Power BI · SQL · Python · Excel**
 
 📍 Cairo, Egypt
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-abdo-15b923157)
@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 
-I'm an aspiring Data Analyst focused on turning raw data into clear, actionable business insights. I completed IBM Data Analyst Professional Certificate ,Google Data Analytics Professional Certificate and Microsoft Power BI Data analyst Professional Certificate. I'm currently building a hands-on project portfolio spanning Excel, SQL, and Python to complement my Power BI dashboard work.
+I'm a Data Analyst focused on turning raw data into clear, actionable business insights. I completed IBM Data Analyst Professional Certificate ,Google Data Analytics Professional Certificate and Microsoft Power BI Data analyst Professional Certificate. I'm currently building a hands-on project portfolio spanning Excel, SQL, and Python to complement my Power BI dashboard work.
 
 I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI Analyst** opportunities.
 
@@ -26,10 +26,10 @@ I'm actively looking for **Junior Data Analyst**, **Reporting Analyst**, or **BI
 ## 🛠️ Skills
 
 **Business Intelligence & Visualization**
-`Power BI` `DAX` `Power Query` `Data Modeling` `Matplotlib` `Seaborn` `Plotly`
+`Power BI` `DAX` `Power Query` `Data Modeling` `Data Wrangling` `Data Cleaning` `Web Scrabing`
 
 **Data Analysis & Programming**
-`Python (pandas, NumPy)` `SQL (CTEs, Window Functions, Joins)` `Exploratory Data Analysis`
+`Python (Pandas,NumPy,Matplotlib,Seaborn,Plotly)` `SQL (CTEs, Window Functions, Joins)` `Exploratory Data Analysis`
 
 **Spreadsheets**
 `Excel (Power Query, Power Pivot, PivotTables, Dashboards)`
